@@ -154,14 +154,14 @@ mso-font-kerning:18.0pt;mso-ansi-language:EN-US">Contributing<o:p></o:p></span><
 issues or have suggestions for improvements, please open an issue or submit a
 pull request.<o:p></o:p></span></p>
 
-<p class="MsoNormal"><b><span style="font-size:12.0pt;line-height:107%;
+<!-- <p class="MsoNormal"><b><span style="font-size:12.0pt;line-height:107%;
 font-family:&quot;Arial&quot;,sans-serif;mso-fareast-font-family:&quot;Times New Roman&quot;;
-mso-font-kerning:18.0pt;mso-ansi-language:EN-US">Contact<o:p></o:p></span></b></p>
+mso-font-kerning:18.0pt;mso-ansi-language:EN-US">Contact<o:p></o:p></span></b></p> -->
 
-<p class="MsoNormal"><span style="font-size:12.0pt;line-height:107%;font-family:
+<!-- <p class="MsoNormal"><span style="font-size:12.0pt;line-height:107%;font-family:
 &quot;Arial&quot;,sans-serif;mso-fareast-font-family:&quot;Times New Roman&quot;;mso-font-kerning:
 18.0pt;mso-ansi-language:EN-US">If you have any questions or need further
-assistance, please feel free to contact me at <a href="mailto:dtuanlieb@gmail.com">dtuanlieb@gmail.com</a>.<o:p></o:p></span></p>
+assistance, please feel free to contact me at <a href="mailto:dtuanlieb@gmail.com">dtuanlieb@gmail.com</a>.<o:p></o:p></span></p> -->
 
 <p class="MsoNormal"><span style="font-size:12.0pt;line-height:107%;font-family:
 &quot;Arial&quot;,sans-serif;mso-ansi-language:EN-US">&nbsp;</span></p>
